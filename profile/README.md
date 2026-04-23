@@ -17,7 +17,7 @@ Performance tuning, scratch disk configuration, and background services affectin
 ---
 
 ## Preview
-![Adobe Photoshop Productivity Suite workflow concept]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7buF5AOsz3HOGviFNZ-4zhqo7Nx4cwKKVSQ&s](https://i.ytimg.com/vi/fBp8OIo7Wjg/maxresdefault.jpg))
+![Adobe Photoshop Productivity Suite workflow concept](https://i.ytimg.com/vi/ZKBQ0IrViz0/maxresdefault.jpg)
 
 ---
 
